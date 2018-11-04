@@ -1,4 +1,4 @@
-# LCD-SwitchPanel
+# LCD-SwitchPanel with Adafruit_TFTLCD.h
 to read a Signal on INPUT, show State on GUI and if you want, overwrite the Signal on OUTPUT
 
 INPUT(PIN) ---> GUI ---> OUTPUT(PIN)
